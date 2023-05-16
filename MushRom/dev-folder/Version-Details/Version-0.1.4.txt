@@ -1,0 +1,5 @@
+Still in the beta build, but now there was a complier (WIP) added, a start-up / html file, an
+image icon file, and a dev-folder
+
+
+		-Jexiled
